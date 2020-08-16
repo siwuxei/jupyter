@@ -13,3 +13,13 @@ dependencies:
   - sphinx-gallery
   - pandas
   - matplotlib
+  - scipy
+  - scikit-learn
+  - seaborn
+  - plotly
+  - bokeh
+  - pydot
+  - kiwisolver
+  - pyparsing
+  - six
+  - pyecharts
