@@ -8,3 +8,6 @@ pip install seaborn
 pip install plotly
 pip install bokeh
 pip install pydot
+pip install kiwisolver
+pip install pyparsing
+pip install six
