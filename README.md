@@ -1,1 +1,1 @@
-# Myjupyter
+# MyJupyter
