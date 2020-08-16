@@ -9,10 +9,9 @@ dependencies:
   - nteract_on_jupyter==2.1.3
   - numpy
   - pip
-  - pip:
-    - nbgitpuller
-    - sphinx-gallery
-    - pandas
-    - matplotlib
-    - pyecharts
+  - nbgitpuller
+  - sphinx-gallery
+  - pandas
+  - matplotlib
+  - pyecharts
     
