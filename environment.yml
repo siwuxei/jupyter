@@ -13,4 +13,4 @@ dependencies:
   - sphinx-gallery
   - pandas
   - matplotlib
-  -pyecharts
+  - pyecharts
